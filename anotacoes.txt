@@ -106,16 +106,16 @@ branches  config  description  HEAD  hooks  info  objects  refs
 
 ls -la
 total 40
-drwxr-xr-x  7 53439597687 SERPRO_RLSL 4096 dez 23 17:28 .
-drwx------ 44 53439597687 SERPRO_RLSL 4096 dez 23 17:26 ..
-drwxr-xr-x  2 53439597687 SERPRO_RLSL 4096 dez 23 17:28 branches
--rw-r--r--  1 53439597687 SERPRO_RLSL   66 dez 23 17:28 config
--rw-r--r--  1 53439597687 SERPRO_RLSL   73 dez 23 17:28 description
--rw-r--r--  1 53439597687 SERPRO_RLSL   23 dez 23 17:28 HEAD
-drwxr-xr-x  2 53439597687 SERPRO_RLSL 4096 dez 23 17:28 hooks
-drwxr-xr-x  2 53439597687 SERPRO_RLSL 4096 dez 23 17:28 info
-drwxr-xr-x  4 53439597687 SERPRO_RLSL 4096 dez 23 17:28 objects
-drwxr-xr-x  4 53439597687 SERPRO_RLSL 4096 dez 23 17:28 refs
+drwxr-xr-x  7 _RLSL 4096 dez 23 17:28 .
+drwx------ 44 _RLSL 4096 dez 23 17:26 ..
+drwxr-xr-x  2 _RLSL 4096 dez 23 17:28 branches
+-rw-r--r--  1 _RLSL   66 dez 23 17:28 config
+-rw-r--r--  1 _RLSL   73 dez 23 17:28 description
+-rw-r--r--  1 _RLSL   23 dez 23 17:28 HEAD
+drwxr-xr-x  2 _RLSL 4096 dez 23 17:28 hooks
+drwxr-xr-x  2 _RLSL 4096 dez 23 17:28 info
+drwxr-xr-x  4 _RLSL 4096 dez 23 17:28 objects
+drwxr-xr-x  4 _RLSL 4096 dez 23 17:28 refs
 
 
 
@@ -134,7 +134,7 @@ git remote add local /home/<cpf>/CursoGit-Consolidando/servidor
 
 8) Execute o comando git clone {caminho} projeto. Substitua {caminho} pelo caminho completo da pasta que criamos no primeiro passo;
 
-git clone /home/53439597687/CursoGit-Consolidando/servidor
+git clone /home/<cpf>/CursoGit-Consolidando/servidor
 
 
 9) Observe que o repositório clonado está vazio;
@@ -154,7 +154,7 @@ git remote rename origin local
 
 15) Abra o seu navegador e acesse http://github.com/;
 
-16) Crie uma conta;
+16) Crie uma conta; sergiop2021
 
 17) Crie um novo repositório, clicando no símbolo de adição no canto superior direito;
 
